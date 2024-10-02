@@ -16,7 +16,7 @@ This project demonstrates a simple 3D environment created using the Ursina game 
    ```bash
    python script_name.py
    ```
-# Sketchfab
+## Sketchfab
 Make sure you download the .gltf or .obj file to your directory. It is available from Sketchfab signin and download it for free
 
 ## Dependencies
